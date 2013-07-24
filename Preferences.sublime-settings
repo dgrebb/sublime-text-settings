@@ -1,0 +1,29 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"draw_minimap_border": false,
+	"fade_fold_buttons": false,
+	"find_selected_text": true,
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 11.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 3,
+	"overlay_scroll_bars": "enabled",
+	"scroll_speed": 5.0,
+	"shift_tab_unindent": true,
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"use_simple_full_screen": true
+}
