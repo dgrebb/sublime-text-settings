@@ -23,7 +23,7 @@
 	"scroll_speed": 5.0,
 	"shift_tab_unindent": true,
 	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
 	"theme": "Flatland Dark.sublime-theme",
-	"translate_tabs_to_spaces": false,
 	"use_simple_full_screen": true
 }
